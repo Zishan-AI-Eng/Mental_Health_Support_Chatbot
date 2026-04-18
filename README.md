@@ -1,6 +1,4 @@
 # 🧠 Mental Health Support Chatbot (Fine-Tuned)
-### AI/ML Engineering Internship — Task 5 | DevelopersHub Corporation
-
 ---
 
 ## 📌 Task Objective
@@ -136,7 +134,7 @@ Bot  : I'm really concerned about what you've shared. Please reach out
 ## 🚀 How to Run
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Dev-ZishanKhan/Mental_Health_Support_Chatbot
+git clone https://github.com/Zishan-AI-Eng/Mental_Health_Support_Chatbot
 
 # 2. Open mental_health_chatbot.ipynb in Google Colab
 
